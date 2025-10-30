@@ -1,4 +1,3 @@
-to View my project:🔗 LinkedIn Profile
 
 📝 Task 1 – Task Manager
 📘 Project Overview
@@ -45,6 +44,7 @@ A built-in reminder system checks deadlines and alerts the user when a task is n
 A clean and minimal interface is designed with HTML & CSS, ensuring usability across desktop and mobile devices.
 
 💻 Technologies Used
+
 Category	Tools / Technologies
 Frontend	HTML5, CSS3, JavaScript
 Styling	CSS Flexbox, Grid Layout
@@ -54,23 +54,23 @@ Environment	VS Code, Live Server
 
 🧠 System Workflow
 
-Add Task
+* Add Task
 The user enters task details and clicks “Add Task.”
 JavaScript dynamically updates the task list and saves the entry to local storage.
 
-View & Manage Tasks
+* View & Manage Tasks
 All tasks are displayed with their status and due date.
 Users can filter between All, Completed, and Pending tasks.
 
-Mark Completion
+* Mark Completion
 Clicking on a checkbox updates the task’s status visually and in local storage.
 
-Reminders
+* Reminders
 If the current date is close to a task’s due date, the app notifies the user visually (highlight color or alert).
 
 
 https://www.linkedin.com/in/logapriya-jagan-821722267/
-Use the Application
+( Use this Application to view the project )
 
 1. Add a new task with title, description, and deadline.
 2. Manage tasks using the action buttons.
