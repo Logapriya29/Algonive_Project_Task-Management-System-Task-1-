@@ -1,3 +1,5 @@
+to View my project:🔗 LinkedIn Profile
+
 📝 Task 1 – Task Manager
 📘 Project Overview
 
@@ -66,14 +68,8 @@ Clicking on a checkbox updates the task’s status visually and in local storage
 Reminders
 If the current date is close to a task’s due date, the app notifies the user visually (highlight color or alert).
 
-📸 Screenshots
-Feature	Preview
-* Task Input Section	
-* Task List View	
-* Deadline Reminder	
 
-(Replace with your actual screenshots when uploading to GitHub)
-
+https://www.linkedin.com/in/logapriya-jagan-821722267/
 Use the Application
 
 1. Add a new task with title, description, and deadline.
